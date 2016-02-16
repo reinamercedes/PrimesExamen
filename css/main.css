@@ -1,0 +1,509 @@
+header {
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, .5);
+	background-repeat: no-repeat;
+	background-blend-mode: color;
+	background-size: 111% 133%;
+	background-position: 0% 0%;
+	background-image: url("../img/background/hero.jpg");
+}
+.whitei{
+	color: white;
+}
+.heroimage h2  {
+	color: white;
+	margin-top: 5%;
+	font-family: Open Sans;
+}
+.heroimage a {
+	text-decoration: none!important;
+}
+nav ul {
+	
+	margin-left: 13%;
+	margin-top: 6%;
+}
+nav ul li {
+	margin-left: 10px;
+	margin-right: 15px;
+	color: white;
+	text-decoration: none;
+	font-family: Open Sans;
+	list-style: none;	
+	float: left;
+	font-size: 19px;
+}
+nav ul li:hover {
+	color: #0DB1B2;
+}
+.heroimage h1 {
+	color: white;
+	margin-top: 20%;
+	font-family: Open Sans;
+	text-align: center;
+	font-size: 50px;
+}
+.heroimage h4 {
+	color: white;
+	margin-top: 3%;
+	font-family: Open Sans;
+    text-align: center;
+    font-weight: 400;
+}
+.button-clasic {
+	background-color: #2D313C;
+	width: 145px;
+	height: 50px;
+	text-align: center;
+	padding-top: 2%;
+    margin-left: 70%;
+    margin-top: 10%;
+    margin-bottom: 52.2%;	
+	color: white;
+	font-family: Open Sans;
+}     
+.button-transparent {
+	background-color: white;
+	width: 145px;
+	height: 50px;
+	opacity: 0.3;
+	text-align: center;
+	padding-top: 2%;
+    margin-right: 70%;
+    margin-top: 10%;
+    margin-bottom: -6.8%;	
+	color: white;
+	font-family: Open Sans;
+}
+.modified {
+	color: white;
+	font-family: Open Sans;
+	text-align: center;
+	padding-right: 72%;
+	
+}
+
+/*SECTION 2*/
+
+
+.sec{
+	padding:50px;
+}
+.img1{
+	padding-top:5%;
+	text-align:center;
+}
+i{
+	color:#089FAA;
+	font-size:50px;
+}
+.text1 h3,p{
+	color: black;
+	line-height:1.5;
+	text-align:center;
+	font-family:Open Sans;
+}
+.text1 h3 {
+	font-size:18px;
+	font-weight: 600;
+}
+.text1 p {
+	font-size: 14px;
+}
+/*SECTION 2*/
+
+/*SECTION 3*/
+.grey{
+	background-color:#F4F4F4;
+	height:25%;
+	padding-top:50px;
+}
+.img {
+	height:300px;
+	width:700px;
+	text-align:center;
+}
+.grey h1{
+	text-align:center;
+	font-family: Open Sans;
+	font-size:30px;
+	font-weight: lighter;
+}
+/*SECTION 4*/
+.system{
+	margin-top:50px;
+	padding-top:30px;
+	/*padding-bottom: 50px;*/
+	margin-bottom:100px;		
+	font-family:Open Sans;
+	
+}
+.system h4{
+	text-align:left;
+	font-size:1em;
+}
+.system p{
+	text-align:left;
+	font-size:0.8em;
+	padding:0px;
+}
+
+
+
+.portfolio {
+	background-color: #F4F4F4;
+}
+.portfolio h1 {
+	text-align: center;
+	color: #676767;
+	font-family: Open Sans;
+	font-weight: 500;
+	margin-top: 40px;
+	margin-bottom: 20px;
+	font-size: 30px;
+}
+.portfolio h4 {
+	text-align: center;
+	font-family: Open Sans;
+	color: #676767;
+	font-weight: 500;	
+}
+.portfolio a {
+	text-decoration: none;
+}
+.nav-port ul li {
+	background-color: white;
+	color: #676767;
+	font-family: Open Sans;
+	padding: 1%;
+	font-weight: bold;
+	margin-left: 2px;
+	margin-right: 2px;
+}
+.nav-port ul {
+	text-align: center;
+	margin-top: 1%!important;
+	margin-left: 30%;	
+	padding-bottom: 5%;
+}
+.nav-port ul li:hover {
+	color: white;
+	background-color: #0DB1B2!important;
+}
+.polaroid {
+	background-color: white;
+	padding: 2%;
+	margin: 2%;
+	box-shadow: 1px 1px 1px 1px #E6E6E6;
+}
+.polaroid h5, h6 {
+	text-align: center;
+	color: black;
+	font-family: Open Sans;
+}
+.polaroid h5 {
+	font-weight: bold;
+	font-size: 14px;
+	text-decoration: none;
+}
+.polaroid h6 {
+	font-weight: lighter;
+	font-size: 13px;
+}
+.load {
+	margin: 3%;
+	text-align: center;
+    padding-top: 1%;
+    margin-left: 44%;
+}
+.load h3 {
+	font-size: 18px;
+    font-weight: 100;
+}
+.call-to-action {
+	background-image: url("../img/background/city.jpg");
+	width: 100%;
+	background-size: 100% 207%;
+	padding: 100px 180px;
+	background-color: rgba(0, 0, 0, .5);
+	background-repeat: no-repeat;
+	background-blend-mode: color;
+}
+.call-to-action p {
+	color: white;
+	text-align: center;
+	font-size: 20px;
+	font-family: Open Sans;
+}
+.call {
+	background-color: white;
+	width: 145px;
+	height: 50px;
+	opacity: 0.3;
+	text-align: center;
+	margin-right: 70%;
+    margin-left: 39.5%;
+    margin-top: 8%;
+    margin-bottom: -4.8%;	
+	color: white;
+	font-family: Open Sans;
+}
+.calltext {
+    padding-left: 48%;
+    padding-top: 30%;
+    padding: 1.5%;
+    margin-left: -8%;
+}
+.decnone {
+	text-decoration: none;
+}
+
+/*SECTION 6 PACKAGE*/
+.package {
+    padding-left: 6%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color:#F4F4F4;
+}
+.grey2 h2,p{
+	text-align:center;
+	font-family:Open Sans;
+	margin-bottom:20px;
+	color:gray;
+}
+.white{
+	background-color:white;
+	padding: 8% 3% 8% 3%;
+	margin-top:50px;
+	margin-right: 13%;
+    margin-left: 5%;
+	box-shadow:2px 2px 2px #E6E6E6; 
+}
+.grey2 strong{
+	font-size:20px;
+}
+.dolar{
+	background-color:#F0F0F0;
+	padding:40px 5px 20px 5px;
+	color:#5A5A5A;
+	margin-bottom:30px;
+}
+.purchase{
+	background-color:#2D323A;
+	margin-top:20px;
+	margin:auto;
+	padding-top:20px;
+	padding-bottom:10px;
+	width:150px;
+	color: white;
+}
+.purchase p{
+	color:white;
+}
+.standard{
+	background-color:#323A45;
+	padding:30px;
+	color:white;
+	font-size:25px;
+	font-family:Open Sans;
+	text-align:center;
+}
+.premium{
+	background-color:#0DC0C0;
+	padding:30px;
+	color:white;
+	font-size:25px;
+	font-family:Open Sans;
+	text-align:center;
+}
+
+
+
+.form-sect {
+	width: 100%;
+	padding-top: 3%;
+	padding-bottom: 5%;
+	background-color: rgba(0, 0, 0, .5);
+	background-repeat: no-repeat;
+	background-blend-mode: color;
+	background-size: 100% 122%;
+	background-image: url("../img/background/contactus.jpg");
+}
+.form-sect h1 {
+	color: white;
+	font-family: Open Sans;
+	text-align: center;
+	font-size: 30px;
+	font-weight: 500;
+	margin-bottom: 3%;
+
+}
+.form-sect h2, h3 {
+	color: white;
+	font-family: Open Sans;
+	font-weight: 500;
+	margin-bottom: 3%;
+}
+.form-sect h4 {
+	color: white;
+	text-align: justify;
+	font-family: Open Sans;
+	font-weight: lighter;
+	margin-bottom: 2%;
+}
+form input, textarea {
+	display: block!important;
+	margin-bottom: 20px!important;
+    background-color: rgba(255, 255, 255, 0.09)!important;
+    border-color: transparent!important;
+}
+form input {
+	width: 100%;
+    height: 50px;
+    font-size: 17px;
+    padding-left: 2%;
+}
+form textarea {
+	width: 100%;
+    height: 155px;
+    font-size: 17px;
+    font-family: Open Sans;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+button {
+	width: 27%;
+    height: 55px;
+    color: white;
+    font-size: 20px;
+    font-family: Open Sans;
+	background-color: #0DC0C0;
+	border-color: transparent;
+}
+button:hover {
+	background-color: #0DB1B2;
+}
+.form-sect p {
+	color: white;
+	margin-top: 7%;
+	text-align: left;
+	font-family: Open Sans;
+}
+.padding-left5 {
+	padding-left: 5%;
+}
+.form-sect h5 {
+	color: white;
+	text-align: left;
+	font-family: Open Sans;
+	font-weight: lighter;
+	font-size: 15px;
+    margin-bottom: 6%;
+}
+.form-sect h3 {
+	margin-top: 3%;
+	font-size: 20px;
+}
+.formi {
+	color: white;
+}
+
+
+/*SECTION 9*/
+.social{
+	margin:auto;
+	text-align:center;
+	font-family:Open Sans;
+	color:#313944;
+}
+.social h2{
+	margin-bottom: 3%;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 3%;
+}
+.social i{
+	font-size:30px;
+	color:#313944;
+	padding: 0.5%;
+    padding-bottom: 5%;
+}
+.social p {
+	margin-bottom: 4%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+/*FOOTER*/
+footer{
+	background-color:#222222;
+	padding: 2%;
+	color:white;
+	
+}
+footer i{
+	font-size:10px;
+	color:white;
+	text-align:center;
+	margin:auto;
+}
+.footer-bottom {
+	font-size:15px;
+	color:white;
+	text-align:center;
+	margin:auto;
+}
+
+
+/*#0DB1B2*/
+
+@media(min-width: 640px) and (max-width: 960px){
+   
+   .button-clasic {
+        position: relative;
+        left: -32%;
+   }
+   .buttonclas {
+   	    font-size: 17px;
+        margin-top: 9% !important;
+   }
+   .heroimage h1 {
+   	    margin-top: 5%;
+   }	
+   .sec {
+   	    padding-left: 10% !important;
+   	    padding-right: 10% !important;
+   }
+   .system {
+   	    font-size: 23px;
+   	    text-align: left;
+   }
+   .text1 h3,p {
+   	    font-size: 25px!important;
+   }
+   .img {
+   	    padding-right: 30%;
+   }
+   .nav-port {
+   	    margin-left: -24%;
+   }
+   .polaroid {
+   	    padding: 6%;
+   }
+   .load {
+   	    margin-left: 71%;
+   }
+   .calltext {
+   	    margin-top: -25%;
+        margin-left: 5%;
+   }
+   .call {
+   	    margin-left: 22%;
+        width: 61%;
+   }
+   .form-sect {
+   	    padding-left: 5%!important;
+   	    padding-right: 5%!important;
+   }
+
+}
